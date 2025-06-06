@@ -3,16 +3,6 @@
 Custom Language for Rapid API Development
 This project showcases a simple API built using a custom-designed programming language specifically tailored for rapid API development. The language aims to simplify the process of defining routes, handling requests, and managing data within an API context.
 
-🚀 Key Features of the Custom Language
-Concise Route Definitions: Easily define API endpoints with clear HTTP methods (GET, POST).
-Built-in Request Body Handling: Specify expected request body parameters and their types directly in the route definition.
-Dynamic Variable Management: Declare and manipulate variables (e.g., list int users, int total_added).
-Direct JSON Response Generation: Construct JSON responses using string concatenation for simplicity.
-Basic Conditional Logic: Implement simple if/else statements for flow control.
-List Manipulation: Add elements to lists and access them by index.
-💡 How it Works (API Showcase Example)
-The provided api showcase block demonstrates a basic API with several routes for managing a list of users.
-
 API Code Example
 api showcase {
     var list int users;
